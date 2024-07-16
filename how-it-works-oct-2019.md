@@ -1,0 +1,19 @@
+# "how it works" (Oct 2019)
+
+IRL is a technology built to make change; In the lives of its users and their communities, and in the broader fields of education, vocation, and activism. The challenge we face is that too many would-be change makers are functionally isolated in their social, academic, or vocational spheres. And the tragedy is that those peers, mentors, and allies needed to make real progress are out there, capable, and willing; but just not as-of-yet accessible.
+
+IRL provides the platform necessary to create coherence in rapidly expanding word; to connect people in meaningful and productive ways. This is how it works: Users on IRL search out Opportunities in their local area, based on their interests. An Opportunity might look something like this:
+
+Users can search for opportunities by area of interest, guild, geography, time, or host.
+
+What makes IRL unique amongst all other networking platforms is our social recognition software. So members of IRL earn reputation through
+
+their interactions with other members.
+
+So after I meet with \[person] to build a \[thing], I review my experience. Both of \[thing] building, and of \[person] These reviews in aggregate provide members with reputations based on their real world interactions, as well as insights into their own strengths and areas for improvement.
+
+This means that each members skills and attributes are verified, laterally, by the
+
+community of persons active in that area of interest & passion. Promoting pro- social behavior by providing visibility, recognition, and accountability.
+
+The scaffolding that people use to navigate these opportunities is our Guild structure Guilds are fractal, self organized, and self regulating collectives of members who share a common pursuit. Opportunities posted to a guild page may be for calls for collaboration, mentorship, apprenticeship, training, action, or anything pertinent to that guilds mission. Guild members themselves determine what is appropriate for their boards, and membership is earned through participating in that Guilds opportunities.
